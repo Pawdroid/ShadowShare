@@ -14,6 +14,9 @@
 <a href="https://apps.apple.com/cn/app/shadowshare/id1612647259">
 <img src="https://gitee.com/crosserr/public/raw/hotfix/images/apple.svg" width="15%"></a>
 
+# Android本地下载
+<kbd>
 <a href="https://shadowshare.v2cross.com/android/">本地下载</a>
+</kbd>
 
 
