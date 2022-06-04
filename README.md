@@ -9,10 +9,10 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5b/97/1c/5b971c1b-c79e-3e3a-883e-d79f56911cac/e18cbf6c-4850-46b5-a68f-567f2286d5b1_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-03-03_at_23.23.03.png/460x0w.png" width="20%" height="20%">
 </kbd>
 <a href="https://play.google.com/store/apps/details?id=com.v2cross.shadowshare">
-<img src="https://gitee.com/crosserr/public/raw/hotfix/images/play.svg" width="15%"></a>
+<img src="https://v2download.b-cdn.net/logo/play.svg" width="15%"></a>
 
 <a href="https://apps.apple.com/cn/app/shadowshare/id1612647259">
-<img src="https://gitee.com/crosserr/public/raw/hotfix/images/apple.svg" width="15%"></a>
+<img src="https://v2download.b-cdn.net/logo/apple.svg" width="15%"></a>
 
 # Android本地下载
 <kbd>
