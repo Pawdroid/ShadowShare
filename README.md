@@ -8,6 +8,9 @@
 <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/c2/ba/8bc2ba43-fa8c-4ce7-9961-8fad18432668/cef3ab7d-3712-42e1-8090-ff723330bf50_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-03-03_at_23.32.08.png/460x0w.png" width="20%" height="20%">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5b/97/1c/5b971c1b-c79e-3e3a-883e-d79f56911cac/e18cbf6c-4850-46b5-a68f-567f2286d5b1_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-03-03_at_23.23.03.png/460x0w.png" width="20%" height="20%">
 </kbd>
+
+# 应用商店下载
+
 <a href="https://play.google.com/store/apps/details?id=com.v2cross.shadowshare">
 <img src="https://v2download.b-cdn.net/logo/play.svg" width="15%"></a>
 
