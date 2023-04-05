@@ -19,7 +19,7 @@
 
 # Android本地下载
 <kbd>
-<a href="https://shadowshare.v2cross.com/android/">本地下载</a>
+<a href="https://ghproxy.com/https://github.com/Pawdroid/ShadowShare/releases/download/7.5.0/app-arm64-v8a-release.apk">本地下载</a>
 </kbd>
 
 
